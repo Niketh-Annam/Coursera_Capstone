@@ -1,0 +1,469 @@
+,Neighborhood,Venue,Latitude,Longitude,Category
+0,A. S. Rao Nagar,KFC,17.47504,78.553137,Fast Food Restaurant
+1,A. S. Rao Nagar,Parivaar Restaurant,17.47685,78.563525,Indian Restaurant
+2,A. S. Rao Nagar,Swagath Grand,17.482022,78.553261,Indian Restaurant
+3,A. S. Rao Nagar,McDonald's,17.476961,78.564754,Fast Food Restaurant
+4,A.C. Guards,Chicha's,17.403255,78.460152,Hyderabadi Restaurant
+5,A.C. Guards,Jewel Of Nizam,17.403869,78.461194,Middle Eastern Restaurant
+6,A.C. Guards,Rayalaseema Ruchulu,17.403084,78.463012,South Indian Restaurant
+7,A.C. Guards,Shahi Dastarkhwan,17.40264,78.461399,Hyderabadi Restaurant
+8,A.C. Guards,Dwarka tiffins,17.405432,78.46373,Vegetarian / Vegan Restaurant
+9,A.C. Guards,DineHill,17.405256,78.451674,Indian Restaurant
+10,A.C. Guards,Paradise Restaurant,17.403602,78.452848,Indian Restaurant
+11,A.C. Guards,Kamat Hotel,17.40433,78.467602,Indian Restaurant
+12,A.C. Guards,Hyderabad House,17.402775,78.456992,Indian Restaurant
+13,A.C. Guards,Sandarshini,17.40533,78.451656,Indian Restaurant
+14,A.C. Guards,Hotel Ashoka,17.403873,78.465551,Indian Restaurant
+15,A.C. Guards,Mughal Restaurant,17.406657,78.464224,Indian Restaurant
+16,A.C. Guards,Hotel Indu Deluxe,17.406415,78.46665,Indian Restaurant
+17,A.C. Guards,Hotel Pakwaan,17.406289,78.46675,Indian Restaurant
+18,A.C. Guards,The Chai,17.405365,78.451396,Indian Restaurant
+19,A.C. Guards,Astoria Restaurant,17.406413,78.467971,Indian Restaurant
+20,Abids,Pragati,17.388088,78.481134,South Indian Restaurant
+21,Abids,Santosh Dhaba,17.388485,78.479509,Indian Restaurant
+22,Abids,Grand Hotel,17.38776,78.477577,Indian Restaurant
+23,Abids,Papaji Ka Dhaba,17.388418,78.479257,Indian Restaurant
+24,Abids,KFC,17.39487,78.475902,Fast Food Restaurant
+25,Abids,McDonald's,17.39312,78.476075,Fast Food Restaurant
+26,Abids,Hotel Luminous One Continent,17.392396,78.4776,Indian Restaurant
+27,Adikmet,Surabhi Grand,17.404938,78.515171,Indian Restaurant
+28,Aghapura,Al-humdulillah Hotel,17.390728,78.462992,Indian Restaurant
+29,"Aliabad, Hyderabad",Star Bawarche,17.3477,78.470613,Asian Restaurant
+30,"Aliabad, Hyderabad",Lee's Chinese Restaurant,17.347883,78.466605,Chinese Restaurant
+31,Alijah Kotla,Govind Ki Idly,17.364132,78.473771,South Indian Restaurant
+32,Alijah Kotla,Pista house,17.356609,78.473637,Indian Restaurant
+33,Amberpet,Sherton Restaurant,17.391435,78.512076,Indian Restaurant
+34,Amberpet,Raghavendra Tiffins,17.399157,78.512198,Indian Restaurant
+35,Amberpet,Santosh Family Dhaba,17.39144,78.511549,Indian Restaurant
+36,Amberpet,Papaji Da Dhaba,17.397484,78.511776,Indian Restaurant
+37,Ameerpet,Mekong,17.437151,78.454301,Chinese Restaurant
+38,Ameerpet,Blue Fox,17.437054,78.445912,Indian Restaurant
+39,Ameerpet,Kritunga Restaurant,17.438083,78.442897,Indian Restaurant
+40,Ameerpet,Chopsticks,17.42991,78.445674,Chinese Restaurant
+41,Ameerpet,Minerva Coffee Shop,17.437295,78.446074,Indian Restaurant
+42,Ameerpet,Santosh Dhaba,17.439442,78.448259,Vegetarian / Vegan Restaurant
+43,Ameerpet,Rayalaseema Ruchulu,17.432853,78.446731,Indian Restaurant
+44,Ameerpet,Sher-e-Punjab Dhaba,17.438454,78.452262,Indian Restaurant
+45,Ameerpet,Greenland Restaurant,17.443589,78.44917,Indian Restaurant
+46,Ameerpet,eatworld,17.43824,78.45008,Fast Food Restaurant
+47,Ameerpet,Haveli,17.436603,78.457036,Indian Restaurant
+48,Ameerpet,Sitara Restaurent,17.431069,78.448243,Indian Restaurant
+49,Ameerpet,Saffron Soul,17.437062,78.454427,Indian Restaurant
+50,Ameerpet,Flyover Bakery,17.435502,78.454899,Indian Restaurant
+51,Ameerpet,pondy parottas,17.439912,78.440578,South Indian Restaurant
+52,"Ashok Nagar, Hyderabad",Minerva Coffee Shop,17.40141,78.485672,Indian Restaurant
+53,"Ashok Nagar, Hyderabad",Bawarchi,17.406369,78.497662,Indian Restaurant
+54,"Ashok Nagar, Hyderabad",Blue Fox,17.401401,78.485653,Indian Restaurant
+55,"Ashok Nagar, Hyderabad",McDonald's,17.401162,78.486509,Fast Food Restaurant
+56,"Ashok Nagar, Hyderabad",Mayur Pan Shop Himayatnagar,17.400975,78.485509,Restaurant
+57,"Ashok Nagar, Hyderabad",Chutneys,17.404134,78.481566,Vegetarian / Vegan Restaurant
+58,"Ashok Nagar, Hyderabad",Crystal Restaurant,17.406608,78.496268,Asian Restaurant
+59,"Ashok Nagar, Hyderabad",KFC,17.401839,78.484524,Fast Food Restaurant
+60,"Ashok Nagar, Hyderabad",Astoria Restaurant,17.40653,78.497136,Indian Restaurant
+61,"Ashok Nagar, Hyderabad",Taj Mahal Hotel,17.399365,78.491954,Indian Restaurant
+62,"Ashok Nagar, Hyderabad",Spice King,17.40576,78.485797,Restaurant
+63,"Ashok Nagar, Hyderabad",Bollywood Chillys,17.406569,78.497345,Indian Restaurant
+64,"Azamabad, Hyderabad",Hotel Abhilasha Multicuisine Restaurant A/C,17.40684,78.496751,Indian Restaurant
+65,Azampura,Hotel Sohail,17.372829,78.499298,Indian Restaurant
+66,Azampura,Hotel Niagara,17.377257,78.49179,Indian Restaurant
+67,Azampura,Hotel Niagara,17.373581,78.491158,Indian Restaurant
+68,Bairamalguda,Pebbles,17.338109,78.54168,Indian Restaurant
+69,Banjara Hills,Mamagoto,17.410408,78.43734,Asian Restaurant
+70,Banjara Hills,Zafraan Exotica,17.410325,78.437299,Indian Restaurant
+71,Banjara Hills,Hard Rock Cafe Hyderabad,17.4194,78.448533,American Restaurant
+72,Banjara Hills,Ziti,17.424055,78.438872,Restaurant
+73,Banjara Hills,Khan Saab,17.418665,78.448428,Indian Restaurant
+74,Banjara Hills,Ohri's Ruci & Idoni,17.414936,78.447553,Italian Restaurant
+75,Banjara Hills,Burger King,17.418703,78.448352,Fast Food Restaurant
+76,Banjara Hills,Mozzarella,17.410392,78.437397,Italian Restaurant
+77,Banjara Hills,Rajdhani,17.426479,78.4383,Rajasthani Restaurant
+78,Banjara Hills,Rock Castle Restaurant,17.420955,78.442258,Indian Restaurant
+79,Banjara Hills,Nanking C-R,17.42583,78.436333,Chinese Restaurant
+80,Banjara Hills,"All Seasons Restaurant,Banjara Hills",17.424987,78.438167,Middle Eastern Restaurant
+81,Banjara Hills,Point Pleasant Restaurant,17.415243,78.444396,Indian Restaurant
+82,Banjara Hills,KFC,17.419197,78.448295,Fast Food Restaurant
+83,Banjara Hills,Blue Fox,17.413747,78.444873,Indian Restaurant
+84,Banjara Hills,Basil - A Veg Affair,17.425668,78.435517,Indian Restaurant
+85,Banjara Hills,Spice 6 The Arab Villagio,17.411429,78.435611,Restaurant
+86,Banjara Hills,Thai Express,17.42644,78.43832,Thai Restaurant
+87,"Barkas, Hyderabad",Yum Yum Tree Arabian,17.309767,78.47579,Mediterranean Restaurant
+88,"Barkas, Hyderabad",Arabian Al-Khaleej Restuarent,17.312814,78.477273,Middle Eastern Restaurant
+89,"Barkas, Hyderabad",Yum Yum Tree,17.313641,78.481913,Falafel Restaurant
+90,"Barkas, Hyderabad",Hadrami Harees,17.317038,78.482911,Middle Eastern Restaurant
+91,Barkatpura,Kadai Fast Food,17.397659,78.503853,Chinese Restaurant
+92,Basheerbagh,Mings Court,17.404872,78.476563,Chinese Restaurant
+93,Basheerbagh,Cafe Bahar,17.399595,78.478566,Indian Restaurant
+94,Basheerbagh,Chung Hua,17.405514,78.4763,Chinese Restaurant
+95,Basheerbagh,Mohini Restaurant,17.401926,78.476153,Indian Restaurant
+96,Basheerbagh,Ohri's,17.404961,78.47656,Restaurant
+97,Basheerbagh,Dadu's Purani Dilli,17.405956,78.479265,Fast Food Restaurant
+98,Basheerbagh,Alex's kitchen,17.40606,78.478373,Chinese Restaurant
+99,Basheerbagh,Blue Diamond,17.399272,78.47475,Chinese Restaurant
+100,Basheerbagh,Ohri's Gufaa,17.404977,78.476592,Restaurant
+101,Begum Bazaar,Laxman Ki Bandi,17.378895,78.463973,South Indian Restaurant
+102,Begumpet,Paradise Restaurant,17.444503,78.462428,Hyderabadi Restaurant
+103,Begumpet,Thai Pavilion,17.443167,78.460734,Thai Restaurant
+104,Begumpet,Needs Fast Food Joint,17.435721,78.461414,Indian Restaurant
+105,Begumpet,Sholay,17.44353,78.465345,Indian Restaurant
+106,Bharat Nagar,Victoria Restaurant,17.466971,78.429,Restaurant
+107,Borabanda,bluefox,17.450686,78.424719,Asian Restaurant
+108,Bowenpally,Sony Dhaba,17.477938,78.47351,Indian Restaurant
+109,Bowenpally,Colorrs Dhaba,17.477976,78.472877,Indian Restaurant
+110,Champapet,Swagath Tiffins,17.344639,78.508231,Vegetarian / Vegan Restaurant
+111,Chanchalguda,Sohail Waves,17.372298,78.499453,Middle Eastern Restaurant
+112,Chandrayan Gutta,Rumaan,17.328063,78.481305,Indian Restaurant
+113,Chandrayan Gutta,Gulf Restaurant,17.317064,78.481773,Middle Eastern Restaurant
+114,Chilkalguda,Alpha,17.434437,78.501044,Indian Restaurant
+115,Chilkalguda,Gharonda Food Court,17.425635,78.506811,Indian Restaurant
+116,Chintal Basti,Sarvi,17.412698,78.449704,Indian Restaurant
+117,Chintal Basti,Fusion 9,17.414444,78.450357,Restaurant
+118,Chintal Basti,Paradise Food Court,17.412113,78.465443,Indian Restaurant
+119,Chintal Basti,Tabla - The Food Beat,17.412148,78.449761,Indian Restaurant
+120,Chintal Basti,Silver Salt,17.40969,78.449669,Indian Restaurant
+121,Chintal Basti,Angeethi,17.414455,78.450545,Indian Restaurant
+122,Chintal Basti,McDonald's,17.41259,78.465406,Fast Food Restaurant
+123,Chintal Basti,McDonald's,17.414951,78.449602,Fast Food Restaurant
+124,Chintal Basti,Sri Darshini A/c Veg Restaurant,17.417849,78.457136,Vegetarian / Vegan Restaurant
+125,Chintalakunta,surabhi Restaurant,17.338986,78.565894,Indian Restaurant
+126,Chintalakunta,Dominos vanasthalipuram,17.3406,78.5633,English Restaurant
+127,Chintalakunta,Spicy Village,17.340282,78.565883,Indian Restaurant
+128,Dilsukhnagar,Green Leaves,17.368586,78.532662,Restaurant
+129,Erragadda,McDonald's,17.448405,78.426307,Fast Food Restaurant
+130,Ferozguda,Delhi Darbar,17.463769,78.458812,Indian Restaurant
+131,Ferozguda,Bawarchi,17.458865,78.459989,Asian Restaurant
+132,Ferozguda,Hotel Sneham,17.463297,78.454854,Indian Restaurant
+133,Film Nagar,Simply South By Chef Chalapati Rao,17.416302,78.409974,Restaurant
+134,Film Nagar,So. Food & More,17.416119,78.416897,Mediterranean Restaurant
+135,Film Nagar,The Moonshine Project,17.4142,78.407733,New American Restaurant
+136,Film Nagar,Little Italy,17.416178,78.416876,Italian Restaurant
+137,Film Nagar,Sodabottleopenerwala,17.422775,78.411164,Parsi Restaurant
+138,Film Nagar,China Bistro,17.422502,78.411041,Asian Restaurant
+139,Film Nagar,Thea - Bar and Kitchen,17.41622,78.409897,Greek Restaurant
+140,Film Nagar,Taj Mahal Hotel,17.417225,78.415588,Multicuisine Indian Restaurant
+141,Film Nagar,Filmy Junction,17.418454,78.412009,Restaurant
+142,Gachibowli,Aviyal,17.441939,78.357185,Vegetarian / Vegan Restaurant
+143,Gachibowli,Shriji Rasoi,17.448748,78.356916,Restaurant
+144,Gachibowli,Simply South By Chef Chalapathi,17.442838,78.357365,South Indian Restaurant
+145,Gachibowli,Wonton,17.441918,78.357974,Chinese Restaurant
+146,Gachibowli,Paradise,17.442547,78.356658,Hyderabadi Restaurant
+147,Gachibowli,Udupi's Upahar,17.440835,78.360644,Vegetarian / Vegan Restaurant
+148,Gachibowli,Mustang terrace,17.44284,78.35532,Italian Restaurant
+149,Gachibowli,Sardarji Chat,17.44167,78.358494,Fast Food Restaurant
+150,Gachibowli,Kairali,17.448872,78.357094,Indian Restaurant
+151,Gachibowli,Shanghai Chef,17.442119,78.35764,Japanese Restaurant
+152,Gachibowli,Lemon n Spice,17.448799,78.357131,Indian Restaurant
+153,Gachibowli,Coastal Spices,17.441017,78.360482,Indian Restaurant
+154,Gachibowli,Delhi Chaat,17.440801,78.360743,Fast Food Restaurant
+155,Gachibowli,Waffle House,17.447708,78.355197,New American Restaurant
+156,Gachibowli,Amity Multicuisine Restaurant,17.441616,78.358697,Indian Restaurant
+157,Gachibowli,Kebab Pavilion,17.442126,78.344922,Indian Restaurant
+158,Gachibowli,Alchemy,17.442126,78.344922,Asian Restaurant
+159,Gachibowli,Indus,17.44172,78.3448,Indian Restaurant
+160,Gachibowli,Cafe Nandani,17.441283,78.359833,Indian Restaurant
+161,Gudimalkapur,Mandar,17.391637,78.432878,Indian Restaurant
+162,Gudimalkapur,Prince Hotel,17.394736,78.44241,Indian Restaurant
+163,Gudimalkapur,Reddy Brothers Tiffins,17.391683,78.436695,Indian Restaurant
+164,Gudimalkapur,anupama,17.394923,78.436756,Indian Restaurant
+165,Gudimalkapur,City Diamond,17.394338,78.44072,Restaurant
+166,Gudimalkapur,Akbar Fast Food Restaurant,17.394486,78.442452,Indian Restaurant
+167,Gudimalkapur,Mohammedia Shawarma,17.38888,78.428461,Hyderabadi Restaurant
+168,Gudimalkapur,Al Labbaik,17.394749,78.44238,Fast Food Restaurant
+169,Gudimalkapur,Al Rabea Al Arabi Restaurant,17.395362,78.432614,Middle Eastern Restaurant
+170,Gudimalkapur,Food On Fire,17.39461,78.431348,Indian Restaurant
+171,Habsiguda,78 Degrees East,17.417746,78.543179,Indian Restaurant
+172,Habsiguda,Hotel Suprabhat,17.41973,78.540662,Vegetarian / Vegan Restaurant
+173,Habsiguda,Esca,17.41778,78.542574,Restaurant
+174,Habsiguda,Swagath Grand,17.420281,78.540211,Indian Restaurant
+175,Habsiguda,Green Bawarchi Restaurant,17.418868,78.54168,Indian Restaurant
+176,Habsiguda,Blue Orchid Restaurant,17.419395,78.540999,Restaurant
+177,Habsiguda,Ghungroo Bar,17.422796,78.545458,Indian Restaurant
+178,Hafeezpet,New Green Bawarchi,17.483925,78.359538,Hyderabadi Restaurant
+179,HITEC City,Firewater,17.448181,78.378744,Restaurant
+180,HITEC City,Ohm @ Avasa,17.447151,78.383876,Chinese Restaurant
+181,HITEC City,Kangan,17.442234,78.3813,Indian Restaurant
+182,HITEC City,Amara -The Trident,17.449144,78.379046,Restaurant
+183,HITEC City,Habanero,17.448127,78.378761,Mexican Restaurant
+184,HITEC City,Paradise Restaurant,17.450504,78.379108,Indian Restaurant
+185,HITEC City,Chutneys Coffee House,17.452449,78.380389,South Indian Restaurant
+186,HITEC City,Rubaiyat,17.444851,78.377084,Indian Restaurant
+187,HITEC City,Yum Yum Tree,17.442511,78.387811,Afghan Restaurant
+188,HITEC City,Cinnamon Fusion,17.446995,78.377987,Italian Restaurant
+189,HITEC City,Gur nihal dhaba,17.447105,78.381377,Indian Restaurant
+190,HITEC City,Republic of Noodles,17.442831,78.376914,Asian Restaurant
+191,HITEC City,Pi,17.447218,78.383752,Restaurant
+192,HITEC City,KFC,17.450677,78.379332,Fast Food Restaurant
+193,HITEC City,Punjabi Affair,17.442575,78.388124,Indian Restaurant
+194,HITEC City,Prego,17.442424,78.381209,Italian Restaurant
+195,HITEC City,Tabla - The New beat,17.445788,78.377609,Indian Restaurant
+196,HITEC City,Taste,17.442085,78.381279,Asian Restaurant
+197,HITEC City,McDonald's,17.448104,78.378907,Fast Food Restaurant
+198,HITEC City,Flechazo,17.446672,78.384517,Mediterranean Restaurant
+199,HITEC City,Venky's Xprs,17.447416,78.378368,Fast Food Restaurant
+200,HITEC City,Little Italy,17.448345,78.378862,Italian Restaurant
+201,HITEC City,Rotis,17.445823,78.377726,Indian Restaurant
+202,HITEC City,Swaad,17.445638,78.386782,Indian Restaurant
+203,HITEC City,Ohri's eatmor,17.450627,78.379443,Fast Food Restaurant
+204,HITEC City,Mainland China,17.452771,78.38028,Chinese Restaurant
+205,HITEC City,Palamuru Grill,17.452299,78.38486,Indian Restaurant
+206,HITEC City,Taamaram,17.44335,78.387613,Vegetarian / Vegan Restaurant
+207,HITEC City,Seema Spice,17.452274,78.390808,Restaurant
+208,HITEC City,Red Fox Hotel,17.443244,78.376338,Asian Restaurant
+209,HITEC City,Fridayz,17.446908,78.384375,Indian Restaurant
+210,HITEC City,All Seasons Multicuisine Restaurant,17.447249,78.378243,Middle Eastern Restaurant
+211,HITEC City,Rayalseema Ruchulu,17.446899,78.384437,Indian Restaurant
+212,HITEC City,Nautanki Gali,17.445049,78.376406,Indian Restaurant
+213,HITEC City,Aviyal Veg Restaurant,17.447124,78.378298,Vegetarian / Vegan Restaurant
+214,HITEC City,Kebab Theater,17.44302,78.377098,Indian Restaurant
+215,Izzat Nagar,Kolkata House,17.472269,78.364563,Indian Restaurant
+216,Izzat Nagar,La Cantina,17.47252,78.372584,Mexican Restaurant
+217,Izzat Nagar,Santosh Dhaba,17.46161,78.366815,Indian Restaurant
+218,Izzat Nagar,Punjabi Affairs,17.462752,78.367128,Indian Restaurant
+219,Izzat Nagar,Haveli Restaurant & Bar,17.462941,78.368653,Indian Restaurant
+220,Izzat Nagar,84 Anjuna Shack,17.468235,78.37576,Restaurant
+221,Izzat Nagar,Kritunga,17.469855,78.365448,Indian Restaurant
+222,Izzat Nagar,Kerala Kitchen,17.462138,78.366877,Indian Restaurant
+223,Izzat Nagar,The Spice Village,17.461806,78.366987,Indian Restaurant
+224,Jahanuma,Dine & Diwan,17.337883,78.465357,Middle Eastern Restaurant
+225,Jeedimetla,Surabhi Grand,17.505207,78.478599,Asian Restaurant
+226,Jeedimetla,Hotel Surabhi Pride,17.505052,78.478533,Indian Restaurant
+227,Jubilee Hills,Chutneys,17.429835,78.409657,Indian Restaurant
+228,Jubilee Hills,Farzi Café,17.428974,78.409667,North Indian Restaurant
+229,Jubilee Hills,Syala Drive In,17.434459,78.413251,Chinese Restaurant
+230,Jubilee Hills,The Spicy Venue,17.435141,78.411046,Indian Restaurant
+231,Jubilee Hills,Blend,17.427912,78.415118,Indian Restaurant
+232,Jubilee Hills,Rayalseema Ruchulu,17.431207,78.407736,Indian Restaurant
+233,Jubilee Hills,Stone Waters Kitchen,17.423867,78.412918,Restaurant
+234,Jubilee Hills,VIVAHA Bhojanambu,17.43445,78.4144,South Indian Restaurant
+235,Jubilee Hills,Ulavacharu,17.423903,78.412022,Indian Restaurant
+236,Jubilee Hills,United Kitchens of India,17.426509,78.40778,Multicuisine Indian Restaurant
+237,Jubilee Hills,KFC,17.430302,78.411869,Fast Food Restaurant
+238,Jubilee Hills,Bombay Duck,17.435571,78.411751,French Restaurant
+239,Jubilee Hills,The Blue Door,17.427809,78.405994,Mediterranean Restaurant
+240,Jubilee Hills,Siaa,17.428483,78.418018,Indian Restaurant
+241,Jubilee Hills,Around The Corner,17.423378,78.412884,Restaurant
+242,Kakatiya Nagar,McDonald's,17.406173,78.541046,Fast Food Restaurant
+243,Kakatiya Nagar,Swagat Grand Hotel,17.406127,78.541051,Indian Restaurant
+244,Kapra,Pranoy's Stove,17.493317,78.569046,Spanish Restaurant
+245,"Karkhana, Secunderabad",Biryani Darbar,17.471064,78.508497,Indian Restaurant
+246,Karmanghat,Shilpi Grand,17.345099,78.525368,Multicuisine Indian Restaurant
+247,Karwan,yadav bhavan,17.383495,78.438042,Argentinian Restaurant
+248,Karwan,Hyderabad House,17.386116,78.435857,Indian Restaurant
+249,Karwan,Hotel Swagath Grand,17.380493,78.429133,Fast Food Restaurant
+250,Kavadiguda,Okra Restaurant,17.423817,78.487257,Restaurant
+251,Kavadiguda,MoMo cafe,17.423769,78.487485,Asian Restaurant
+252,Kavadiguda,Bidri,17.424254,78.486773,Indian Restaurant
+253,Kavadiguda,Moksh,17.429611,78.48731,Indian Restaurant
+254,Khajaguda,Village Aaharam,17.418142,78.361859,South Indian Restaurant
+255,"Kings Colony, Shastripuram",Balaji pranav family dhaba,17.331295,78.43866,Indian Restaurant
+256,Kompally,Mehfil Dhaba,17.541172,78.489659,Indian Restaurant
+257,Kompally,Highway 44,17.529297,78.485925,Indian Restaurant
+258,Kompally,Raaga grand Bar & Restaurant,17.528731,78.485858,Indian Restaurant
+259,Kondapur,Udipi Upahar,17.470061,78.365399,South Indian Restaurant
+260,Kondapur,Palamuru Grill,17.469815,78.365743,Indian Restaurant
+261,"Kothapet, Hyderabad",Tre Forni,17.424806,78.4296,Italian Restaurant
+262,"Kothapet, Hyderabad",KFC,17.423526,78.42815,Fast Food Restaurant
+263,"Kothapet, Hyderabad",TGI Friday's,17.42358,78.427622,American Restaurant
+264,"Kothapet, Hyderabad",Blue Fox,17.423622,78.427951,Asian Restaurant
+265,"Kothapet, Hyderabad",McDonald's,17.423602,78.427818,Fast Food Restaurant
+266,"Kothapet, Hyderabad",The Oriental At the Hyatt,17.424665,78.429616,Asian Restaurant
+267,"Kothapet, Hyderabad",Get X Trance,17.423524,78.429077,Asian Restaurant
+268,"Kothapet, Hyderabad",Green Bawarchi,17.429776,78.4284,Indian Restaurant
+269,"Kothapet, Hyderabad",Noodles King,17.430165,78.442203,Chinese Restaurant
+270,"Krishna Nagar, Hyderabad",Hashi,17.433395,78.4174,Asian Restaurant
+271,"Krishna Nagar, Hyderabad",Le Vantage,17.430074,78.417744,Italian Restaurant
+272,"Krishna Nagar, Hyderabad",The Clay Pot,17.42514,78.421286,Indian Restaurant
+273,"Krishna Nagar, Hyderabad",Varun Tiffin center,17.436604,78.433244,Indian Restaurant
+274,Kukatpally,Paradise Restaurant,17.493364,78.404155,Indian Restaurant
+275,Kukatpally,Chutneys,17.496115,78.396619,Indian Restaurant
+276,Kukatpally,McDonald's,17.492883,78.404221,Fast Food Restaurant
+277,Kukatpally,Green Bawarchi,17.493623,78.402949,Middle Eastern Restaurant
+278,Kukatpally,"Paradise, KPHB",17.492777,78.404401,Indian Restaurant
+279,Kukatpally,Sitara Grand,17.492095,78.40194,Indian Restaurant
+280,Kukatpally,KFC,17.49258,78.404633,Fast Food Restaurant
+281,Lab quarters,Lucky Restaurant,17.343677,78.506839,Indian Restaurant
+282,Lal Bahadur Nagar,KFC,17.34593,78.552375,Fast Food Restaurant
+283,Lal Bahadur Nagar,Abhinand Grand,17.35325,78.555385,Restaurant
+284,"Lingampally, Hyderabad",Bawarchi Mughal Restaurant,17.496083,78.31563,Indian Restaurant
+285,"Lingampally, Hyderabad",Capri Restaurant,17.494848,78.319031,Indian Restaurant
+286,"Lingampally, Hyderabad",Foodie Woodie,17.479895,78.315093,Fast Food Restaurant
+287,"Lingampally, Hyderabad",Silver Bawarchi,17.496635,78.315174,Indian Restaurant
+288,Lothkunta,Lal Bawarchi,17.499474,78.512792,Indian Restaurant
+289,Madannapet,Marhaba arabic restaurant,17.362694,78.506367,Restaurant
+290,Madhapur,Abhiruchi,17.437882,78.390034,Indian Restaurant
+291,Madhapur,Ci Gusta,17.438342,78.395606,Italian Restaurant
+292,Madhapur,Sanjha Chulha,17.441395,78.388774,Indian Restaurant
+293,Madhapur,Kritunga Restaurent,17.441004,78.391331,Asian Restaurant
+294,Madhapur,Chutneys,17.434254,78.386864,Vegetarian / Vegan Restaurant
+295,Madhapur,Utsav Vegetarian Restaurant,17.442452,78.395975,Multicuisine Indian Restaurant
+296,Madhapur,Ginger court,17.440461,78.393569,Indian Restaurant
+297,Madhapur,KFC,17.434201,78.386809,Fast Food Restaurant
+298,Madhapur,36 drive-in,17.436792,78.399584,Comfort Food Restaurant
+299,Madhapur,Daspalla,17.436931,78.398656,Indian Restaurant
+300,Madhapur,Delhi 39,17.441473,78.391186,Indian Restaurant
+301,Madhapur,Grill inn,17.441417,78.388642,Fast Food Restaurant
+302,Madhapur,Sameplace,17.441017,78.39058,Asian Restaurant
+303,Madhapur,4 seasons,17.434258,78.386713,Indian Restaurant
+304,Madhapur,Little Hut,17.438864,78.39684,Indian Restaurant
+305,Madhapur,Hyderabad House,17.441248,78.39033,Indian Restaurant
+306,Madhapur,Chili's Grill & Bar,17.434197,78.386869,Tex-Mex Restaurant
+307,Madhapur,Shanghai Chef,17.441296,78.39073,Chinese Restaurant
+308,Madhapur,Spice Tribe,17.438953,78.397361,Indian Restaurant
+309,Madhapur,T-grill,17.442477,78.396187,Andhra Restaurant
+310,Madhapur,Hashi,17.441195,78.396754,Japanese Restaurant
+311,Madhapur,McDonald's,17.434224,78.386783,Fast Food Restaurant
+312,Madhapur,Dil Punjabi,17.434276,78.386936,Indian Restaurant
+313,"Madina, Hyderabad",Celesté,17.330125,78.467442,Italian Restaurant
+314,"Madina, Hyderabad",Adaa,17.330192,78.46743,Indian Restaurant
+315,Madinaguda,Idli Dosa & U,17.495363,78.340889,South Indian Restaurant
+316,Madinaguda,Bahar Cafe,17.495299,78.338409,Indian Restaurant
+317,Madinaguda,Temptations,17.492715,78.336336,Indian Restaurant
+318,Madinaguda,De Banyan,17.494909,78.338479,Indian Restaurant
+319,Mahatma Gandhi Road (Secunderabad),Paradise Restaurant,17.441844,78.487354,Hyderabadi Restaurant
+320,Mahatma Gandhi Road (Secunderabad),Reshmi's Classic Restaurant,17.442357,78.490348,Indian Restaurant
+321,Mahatma Gandhi Road (Secunderabad),McDonald's,17.441498,78.491308,Fast Food Restaurant
+322,Mahatma Gandhi Road (Secunderabad),Chutneys,17.443384,78.479939,Indian Restaurant
+323,Mahatma Gandhi Road (Secunderabad),Taj Tristar,17.441245,78.493296,Vegetarian / Vegan Restaurant
+324,Mahatma Gandhi Road (Secunderabad),Santosh Dhaba,17.442424,78.486686,Indian Restaurant
+325,Mahatma Gandhi Road (Secunderabad),Nanking,17.441969,78.490198,Chinese Restaurant
+326,Mahatma Gandhi Road (Secunderabad),Belsons Taj Hotel,17.44233,78.493492,Vegetarian / Vegan Restaurant
+327,Mahatma Gandhi Road (Secunderabad),McDonald's,17.441485,78.491336,Fast Food Restaurant
+328,Mahatma Gandhi Road (Secunderabad),Yatri nivas,17.442981,78.484331,Indian Restaurant
+329,Mahatma Gandhi Road (Secunderabad),KFC,17.435911,78.488545,Fast Food Restaurant
+330,Mahatma Gandhi Road (Secunderabad),Chung Hua,17.440683,78.479233,Chinese Restaurant
+331,Mahatma Gandhi Road (Secunderabad),Ratanlal Mithai,17.436305,78.493921,Indian Restaurant
+332,Malakpet,KFC,17.372814,78.505762,Fast Food Restaurant
+333,Malkajgiri mandal,Mohan's Dhaba,17.467125,78.534016,Indian Restaurant
+334,Manikonda,Mandi King Arabian Restaurant,17.406092,78.37635,Restaurant
+335,Manovikas Nagar,Sweet Heart Restaurant,17.462357,78.484726,Middle Eastern Restaurant
+336,Marredpally,KFC,17.456858,78.499298,Fast Food Restaurant
+337,Marredpally,Nanking C.R,17.453957,78.498761,Chinese Restaurant
+338,Marredpally,KFC,17.456952,78.49917,Fast Food Restaurant
+339,Marredpally,Sai palace,17.443809,78.507349,Fast Food Restaurant
+340,Masab Tank,A la Liberty,17.407469,78.444337,Vegetarian / Vegan Restaurant
+341,Masab Tank,Just Parantha,17.408121,78.447481,Indian Restaurant
+342,Masab Tank,Paradise Take Away,17.404987,78.455848,Indian Restaurant
+343,Mehdipatnam,Al Hejaz Cafeteria,17.391796,78.426712,Falafel Restaurant
+344,Mehdipatnam,Shah Ghouse Cafe and Restaurant,17.396277,78.425094,Indian Restaurant
+345,Mehdipatnam,Marhaba,17.394632,78.427489,Indian Restaurant
+346,Mehdipatnam,McDonald's,17.396629,78.442852,Fast Food Restaurant
+347,Mehdipatnam,Fisherman's Fare,17.395923,78.429644,Seafood Restaurant
+348,Mehdipatnam,KFC,17.396403,78.442774,Fast Food Restaurant
+349,Mehdipatnam,New Paradise,17.388472,78.436667,Indian Restaurant
+350,Mehdipatnam,Arabian Food,17.395928,78.427528,Indian Restaurant
+351,Mettuguda,Jalpaan,17.429618,78.516475,Indian Restaurant
+352,Miyapur,KFC,17.495363,78.355836,Fast Food Restaurant
+353,Miyapur,sa re ga ma,17.496138,78.358481,Indian Restaurant
+354,Miyapur,Dosa plaza,17.503132,78.355499,Indian Restaurant
+355,Miyapur,Angaara,17.503148,78.35551,Asian Restaurant
+356,Miyapur,Bommarillu Restaurant,17.49615,78.363431,Asian Restaurant
+357,Miyapur,Beijing Bistro,17.491469,78.353258,Chinese Restaurant
+358,Moosarambagh,Grand Bavarchi,17.369776,78.515216,Indian Restaurant
+359,Moosarambagh,Serena Chat and Bakers,17.368026,78.522254,Fast Food Restaurant
+360,Moti Nagar (Hyderabad),surabhi,17.452316,78.426212,Asian Restaurant
+361,Moula-Ali,China Town (Restaurant),17.472493,78.562012,Chinese Restaurant
+362,Nacharam,Urban Eatery,17.43527,78.55622,American Restaurant
+363,Nacharam,Chandra Grand,17.430093,78.552618,Indian Restaurant
+364,Nacharam,Goodlands Restro,17.428277,78.551028,Indian Restaurant
+365,Nagole,amaravathi Family Restaurant,17.373185,78.557554,Indian Restaurant
+366,Nallakunta,Shanthi Deluxe,17.399772,78.513025,Indian Restaurant
+367,Nanakramguda,Feast,17.421789,78.337607,Restaurant
+368,Nanakramguda,deli9 | Bistro,17.424283,78.344143,Italian Restaurant
+369,Nanakramguda,Jonathan's Kitchen,17.423952,78.347457,Restaurant
+370,Nanakramguda,Khaa Ke Dekh,17.422712,78.347562,Indian Restaurant
+371,Nanakramguda,Zega,17.421646,78.33763,Asian Restaurant
+372,Nanakramguda,Deori,17.418617,78.342026,South Indian Restaurant
+373,Nanalnagar,Pista House,17.396746,78.424301,Asian Restaurant
+374,Nanalnagar,Ice And Spice,17.39681,78.424496,Fast Food Restaurant
+375,Nanalnagar,4 Seasons,17.396714,78.424416,Restaurant
+376,Nanalnagar,Matbaq Al-Mandi,17.396866,78.424552,Restaurant
+377,Narayanguda,Sweekar Hotel,17.390648,78.489266,Vegetarian / Vegan Restaurant
+378,Nizampet,Delhi Smackers,17.512693,78.380187,Fast Food Restaurant
+379,Padmarao Nagar,Naivedyam,17.430111,78.504819,Vegetarian / Vegan Restaurant
+380,Patny,Chin Ling Chinese Restaurant,17.440969,78.503498,Chinese Restaurant
+381,Patny,Kamat Hotel,17.440718,78.49708,Indian Restaurant
+382,Patny,Garden,17.441737,78.49866,Indian Restaurant
+383,Pragathi Nagar,Nizam's Kitchen,17.514088,78.391419,Indian Restaurant
+384,Prakash Nagar,Bowl O China,17.443414,78.477563,Chinese Restaurant
+385,Prakash Nagar,Viva,17.443153,78.4605,Restaurant
+386,Punjagutta,Chinese Pavilion,17.423456,78.448695,Asian Restaurant
+387,Punjagutta,Southern Mirchi,17.426419,78.44856,South Indian Restaurant
+388,Punjagutta,Chutney's,17.426219,78.447569,Vegetarian / Vegan Restaurant
+389,Punjagutta,Meridian Resturant,17.427355,78.452159,Fast Food Restaurant
+390,Punjagutta,Roll Call,17.42617,78.448107,Indian Restaurant
+391,Punjagutta,Minerva Coffee Shop,17.428839,78.455573,Indian Restaurant
+392,Punjagutta,Sahib Sindh Sultan,17.414802,78.449117,Indian Restaurant
+393,Punjagutta,Aromas of China,17.4151,78.449359,Chinese Restaurant
+394,Punjagutta,KFC Central,17.426428,78.452739,Fast Food Restaurant
+395,Punjagutta,Angeethi,17.415801,78.44926,Indian Restaurant
+396,Punjagutta,McDonald's,17.42641,78.452722,Fast Food Restaurant
+397,Punjagutta,Indijoe,17.415181,78.448971,Italian Restaurant
+398,Punjagutta,Shanbhag Samarth Restaurant,17.426235,78.450694,Indian Restaurant
+399,Raidurg,Deccan Pavillion,17.413864,78.394063,Indian Restaurant
+400,Raidurg,Indiana Hills,17.41401,78.394113,Indian Restaurant
+401,Raidurg,Falcon Food Court,17.41396,78.394135,Fast Food Restaurant
+402,Raidurg,Mehfil house,17.414483,78.394239,Restaurant
+403,Raj Bhavan Road,Waterfront,17.421636,78.465374,Restaurant
+404,Raj Bhavan Road,KFC,17.422668,78.462377,Fast Food Restaurant
+405,Raj Bhavan Road,The Verandah,17.423652,78.462437,Indian Restaurant
+406,Raj Bhavan Road,By The Bay,17.421958,78.465255,Restaurant
+407,Raj Bhavan Road,The Watet Front,17.42181,78.465468,Indian Restaurant
+408,Rastrapathi Road,Kabini Sangama,12.119731,76.691865,Indian Restaurant
+409,"Red Hills, Hyderabad",Hotel Fishland,17.405732,78.462559,Indian Restaurant
+410,Sainikpuri,Hang Out,17.490417,78.543101,Falafel Restaurant
+411,Sainikpuri,Shree Siddarth Fast Food,17.489298,78.540001,Fast Food Restaurant
+412,Sainikpuri,dawat,17.483355,78.539579,Indian Restaurant
+413,Sainikpuri,Marshall Cafe and Restaurant,17.48241,78.53756,Fast Food Restaurant
+414,Santoshnagar,Palace Heights,17.352423,78.509263,Indian Restaurant
+415,Saroornagar,Papadams,17.357397,78.557284,Restaurant
+416,Saroornagar,Vijaya Raghavendra Tiffins,17.365266,78.556955,Indian Restaurant
+417,Serilingampally,Swaadh,17.46367,78.347273,Indian Restaurant
+418,Serilingampally,Angaara 2,17.46373,78.346776,Indian Chinese Restaurant
+419,Sikh Village,Pakwaan Restaurant,17.455743,78.484967,Indian Restaurant
+420,Sikh Village,Bar one,17.455803,78.48522,Indian Restaurant
+421,Sikh Village,Sathya bar,17.456037,78.483555,Restaurant
+422,Sikh Village,Sweet Heart Restaurant,17.456424,78.479287,Asian Restaurant
+423,Silpa Avenue Colony,13 Dhaba,17.437482,78.36567,Indian Restaurant
+424,Silpa Avenue Colony,Over The Flames,17.432946,78.369777,Italian Restaurant
+425,Silpa Avenue Colony,Delhi 39,17.433488,78.369293,Indian Restaurant
+426,Silpa Avenue Colony,Punjabi Rasoi,17.438844,78.364249,Indian Restaurant
+427,Silpa Avenue Colony,The Hunan Spice,17.433256,78.369404,Hunan Restaurant
+428,Silpa Avenue Colony,Santhosh Daba,17.446525,78.36333,Indian Restaurant
+429,Silpa Avenue Colony,Hong Kong,17.444452,78.362965,Chinese Restaurant
+430,Silpa Avenue Colony,Ikea Restaurant,17.438938,78.375937,Scandinavian Restaurant
+431,Silpa Avenue Colony,Hi-tech Bawarchi,17.445406,78.361298,Indian Restaurant
+432,Silpa Avenue Colony,Shivani Restaurant,17.432007,78.371637,Asian Restaurant
+433,Silpa Avenue Colony,Paradise,17.441355,78.37638,Indian Restaurant
+434,Somajiguda,Kebabs & Kurries,17.432374,78.457585,Indian Restaurant
+435,Somajiguda,Jalpaan,17.430403,78.456175,Vegetarian / Vegan Restaurant
+436,Somajiguda,Deccan Pavilion,17.432347,78.457413,Indian Restaurant
+437,Somajiguda,Mainland China,17.431588,78.45627,Chinese Restaurant
+438,Somajiguda,Oh! Calcutta.,17.431452,78.456266,Bengali Restaurant
+439,Somajiguda,Sigree,17.431451,78.456194,Indian Restaurant
+440,Somajiguda,Ohris 70 Mm,17.431762,78.464933,Indian Restaurant
+441,Somajiguda,Tansen,17.431884,78.465067,Indian Restaurant
+442,Somajiguda,Y2K Chicken Restaurant,17.426403,78.452168,Indian Restaurant
+443,Somajiguda,Banjara Darbar,17.426497,78.451446,Indian Restaurant
+444,Srinagar colony,Pista House,17.436884,78.435246,Indian Restaurant
+445,Srinagar colony,Spicy,17.429843,78.426018,Indian Restaurant
+446,Srinagar colony,Almas,17.430453,78.425425,Indian Restaurant
+447,Suchitra Center,My Friends Circle Restuarant,17.499352,78.477045,Restaurant
+448,Suchitra Center,Swagath Grand,17.504274,78.478349,Indian Restaurant
+449,Suchitra Center,Las Vegas Diner,17.50279,78.4791,Restaurant
+450,Tarnaka,Gopal Chat,17.426681,78.545702,Indian Restaurant
+451,Tirumalagiri,Ohri's Metro Silver,17.474905,78.509213,Restaurant
+452,Tirumalagiri,The Yellow Chilli,17.474016,78.509391,Indian Restaurant
+453,Tirumalagiri,Surabi Pride,17.471035,78.508902,Restaurant
+454,Tirumalagiri,punjabi affair,17.470379,78.50927,Restaurant
+455,Tolichowki,KFC Restaurant,17.402419,78.411184,Fast Food Restaurant
+456,Tolichowki,Kholanis Tolichowki,17.400315,78.413935,Asian Restaurant
+457,Tolichowki,Adams Victoria Restaurant,17.402833,78.410375,Restaurant
+458,Tolichowki,Swaad Restaurant,17.40358,78.408825,Chinese Restaurant
+459,Umdanagar,Bawarchi,17.26092,78.386497,Indian Restaurant
+460,Umdanagar,Swagath Grand Hotel,17.26007,78.385475,Indian Restaurant
+461,Vasavi Colony,Paradise Food Court,17.360841,78.544294,Hyderabadi Restaurant
+462,Vasavi Colony,Spicy Hub,17.367234,78.543451,Indian Restaurant
+463,Vasavi Colony,Spicy Hut,17.365425,78.542984,Indian Restaurant
+464,Vasavi Colony,Surabhi Elite,17.359256,78.544593,Indian Restaurant
+465,Vasavi Colony,Kritunga Restaurant,17.36785,78.54023,South Indian Restaurant
+466,Vasavi Colony,Raghavendra Tiffins,17.367115,78.539879,Indian Restaurant
+467,Vasavi Colony,Hotel Nakshatra Inn,17.358492,78.544854,Indian Restaurant
